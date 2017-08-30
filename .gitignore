@@ -1,1 +1,3 @@
 .idea
+.sfdx/orgs
+.sfdx/orgs/*
