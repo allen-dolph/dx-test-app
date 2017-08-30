@@ -49,15 +49,14 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
     <label>Engine</label>
     <nameField>
-        <displayFormat>E-{000}</displayFormat>
-        <label>Engine Number</label>
-        <type>AutoNumber</type>
+        <label>Engine Name</label>
+        <type>Text</type>
     </nameField>
     <pluralLabel>Engines</pluralLabel>
     <searchLayouts/>
