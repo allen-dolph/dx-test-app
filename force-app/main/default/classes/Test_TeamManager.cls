@@ -1,9 +1,9 @@
 @isTest
 public with sharing class Test_TeamManager {
-    
+
     @testSetup
     public static void setup() {
-        Engine__c engine = new Engine__c;
+        Engine__c engine = new Engine__c();
         engine.Name = 'Mercedes';
 
         insert engine;
