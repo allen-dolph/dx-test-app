@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Mercedes AMG Patronas",
+            "Engine__c": "Engine__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Williams",
+            "Engine__c": "Engine__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "McLaren",
+            "Engine__c": "Engine__cRef4"
+        }
+    ]
+}

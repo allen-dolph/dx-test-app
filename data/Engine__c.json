@@ -1,0 +1,32 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Engine__c",
+                "referenceId": "Engine__cRef1"
+            },
+            "Name": "Mercedes"
+        },
+        {
+            "attributes": {
+                "type": "Engine__c",
+                "referenceId": "Engine__cRef2"
+            },
+            "Name": "Ferrari"
+        },
+        {
+            "attributes": {
+                "type": "Engine__c",
+                "referenceId": "Engine__cRef3"
+            },
+            "Name": "Renault"
+        },
+        {
+            "attributes": {
+                "type": "Engine__c",
+                "referenceId": "Engine__cRef4"
+            },
+            "Name": "Honda"
+        }
+    ]
+}
